@@ -3,7 +3,7 @@ Go nemo with me: https://nemowithme.com
 
 # about
 
-# members
+# contributors
 |name|position|github|
 |------|---|---|
 |장혜진|FE / React|https://github.com/zinny22|
