@@ -1,18 +1,18 @@
-# ▇ with me
+# 🟪 with me (네모위드미)
 
 </br>
 
 <p align='center'>
-<img width="540" alt="위드미" src="https://user-images.githubusercontent.com/77830226/161585283-36e4a2aa-d171-464a-8204-c7b2e67631a2.png">
+<img width="540" alt="네모위드미" src="https://user-images.githubusercontent.com/77830226/161585283-36e4a2aa-d171-464a-8204-c7b2e67631a2.png">
 </p>
 
 </br></br></br>
 
 ## 📌 바로가기
-- 사이트 바로가기: 💻 https://nemowithme.com </br>
-- 프론트엔드 GitHub Repository: 📁 https://github.com/Square-with-me/Square-with-me-FE </br>
-- 백엔드 GitHub Repository : 📁 https://github.com/Square-with-me/Square-with-me-BE </br>
-- 시연 영상 보러가기: 🎥
+- <a href="https://nemowithme.com"> 🟪 with me 바로가기 </a></br>
+- <a href="https://github.com/Square-with-me/Square-with-me-FE"> 📁 프론트엔드 GitHub Repository </a></br>
+- <a href="https://github.com/Square-with-me/Square-with-me-BE"> 📁 백엔드 GitHub Repository </a></br>
+- 🎥 시연 영상 보러가기 (준비중)
 
 </br></br></br>
 
@@ -22,12 +22,12 @@
 
 </br></br></br>
 
-## ▇ with me 서비스 소개
-
+## 🟪 with me 서비스 소개
+(준비중)
 </br></br></br>
 
 ## 🔎 주요 기능
-
+(준비중)
 </br></br></br>
 
 ## 🧑‍🔧 프로젝트 구조
