@@ -1,4 +1,4 @@
-# ▇ with me!
+# ▇ with me
 
 </br>
 
@@ -6,13 +6,38 @@
 <img width="540" alt="위드미" src="https://user-images.githubusercontent.com/77830226/161585283-36e4a2aa-d171-464a-8204-c7b2e67631a2.png">
 </p>
 
-</br>
+</br></br></br>
 
-Go ▇ with me: https://nemowithme.com
+## 📌 바로가기
+- 사이트 바로가기: 💻 https://nemowithme.com </br>
+- 프론트엔드 GitHub Repository: 📁 https://github.com/Square-with-me/Square-with-me-FE </br>
+- 백엔드 GitHub Repository : 📁 https://github.com/Square-with-me/Square-with-me-BE </br>
+- 시연 영상 보러가기: 🎥
 
-</br>
+</br></br></br>
 
-## 👩‍💻 Front-end
+## ⏰ 개발 기간
+
+>2022년 2월 25일 ~ 2022년 4월 8일 (6주)
+
+</br></br></br>
+
+## ▇ with me 서비스 소개
+
+</br></br></br>
+
+## 🔎 주요 기능
+
+</br></br></br>
+
+## 🧑‍🔧 프로젝트 구조
+<img width="763" alt="아키텍처" src="https://user-images.githubusercontent.com/77830226/161592686-ec06344c-9d1a-4c8b-ac41-c91a1755f0c2.png">
+
+</br></br></br>
+
+
+## 🛠 기술스택
+>### 👩‍💻 프론트엔드
 </br>
 <p align='center'>
   <img src='https://img.shields.io/badge/React-v17.0.2-blue?logo=React'/>
@@ -23,67 +48,33 @@ Go ▇ with me: https://nemowithme.com
   <img src='https://img.shields.io/badge/Axios-v0.26.0-pink?'/>
   <img src='https://img.shields.io/badge/socket.io-v4.4.1-white?logo=Socket.io'/>
   <img src='https://img.shields.io/badge/yarn-v1.22.17-yellow?logo=yarn'/>
-  <img src='https://img.shields.io/badge/eslint-v8.11.0-yellow?logo=eslint'/>
-  <img src='https://img.shields.io/badge/AWS-Amazon AWS-yellow?logo=Amazon AWS'/>
- </p>
+  </br>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=Amazon AWS&logoColor=white" />
+</p>
 
-</br>
+</br></br></br>
 
-## 🧑‍💻 Back-end
+>### 🧑‍💻 백엔드
 </br>
 <p align='center'>
   <img src='https://img.shields.io/badge/Node-v14.15.4-green?logo=Node.js'/>
 <!--   //수정 예정 -->
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Express-009688?style=for-the-badge&logo=Express&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Sequelize-52b0e7?style=for-the-badge&logo=Sequelize&logoColor=white">&nbsp;
+  <img src='https://img.shields.io/badge/socket.io-v4.4.1-white?logo=Socket.io'/>
+  <img src="https://img.shields.io/badge/Express-v4.17.3-009688?logo=Express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-v2.3.3-4479a1?logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-v6.17.0-52b0e7?logo=Sequelize&logoColor=white" />
   </br>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=Passport&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Json Web Token-8a8a8a?style=for-the-badge&logo=JSON Web Tokens&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-v-47A248?logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Passport-v0.5.2-34E27A?logo=Passport&logoColor=white" />
+  <img src="https://img.shields.io/badge/Json Web Token-v8.5.1-8a8a8a?logo=JSON Web Tokens&logoColor=white" />
   </br>
-  <img src="https://img.shields.io/badge/Travis CI-3EAAAF?style=for-the-badge&logo=Travis CI&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">&nbsp;
-  <img src='https://img.shields.io/badge/AWS-Amazon AWS-yellow?logo=Amazon AWS'/> 
+  <img src="https://img.shields.io/badge/Travis CI-3EAAAF?logo=Travis CI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=Amazon AWS&logoColor=white" />
 </p>
 
-<br />
+</br></br></br>
 
-## ⏰ 개발 기간
-
-2022.02.25 ~ 2022.04.08 (6주)
-
-</br>
-
-<!-- ## 📝 프론트엔드 개요
-
-- 개발 언어 : Javascript
-- 개발 라이브러리 : React.js
-- 형상 관리 : git
-- 협업 툴 : notion
-- 디자인 공유 : Figma
-
-<br />
-
-### 배포
-- Client : AWS Amplify
-- Server : AWS EC2
-
-</br> -->
-
-## ▇ with me 서비스 소개
-
-</br>
-
-## 📌 주요 기능
-
-</br>
-
-## 🛠 프로젝트 구조
-<img width="763" alt="아키텍처" src="https://user-images.githubusercontent.com/77830226/161592686-ec06344c-9d1a-4c8b-ac41-c91a1755f0c2.png">
-
-</br>
 
 ## 팀원 소개
 |name|position|github|
