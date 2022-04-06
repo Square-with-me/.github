@@ -123,7 +123,7 @@
   <img src='https://img.shields.io/badge/Node-v16.13.1-green?logo=Node.js'/>
   <img src='https://img.shields.io/badge/socket.io-v4.4.1-white?logo=Socket.io'/>
   <img src="https://img.shields.io/badge/Express-v4.17.3-009688?logo=Express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-v2.3.3-4479a1?logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-v8.0.23-4479a1?logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Sequelize-v6.17.0-52b0e7?logo=Sequelize&logoColor=white" />
   </br>
   <img src="https://img.shields.io/badge/MongoDB-v5.0.6-47A248?logo=MongoDB&logoColor=white" />
