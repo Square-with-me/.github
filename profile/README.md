@@ -16,7 +16,9 @@
 - <a href="https://nemowithme.com"> 🟪 with me 바로가기 </a></br>
 - <a href="https://github.com/Square-with-me/Square-with-me-FE"> 📁 프론트엔드 GitHub Repository </a></br>
 - <a href="https://github.com/Square-with-me/Square-with-me-BE"> 📁 백엔드 GitHub Repository </a></br>
-- 🎥 프로젝트 발표 영상 보러가기 (준비중)
+- <a href="https://www.youtube.com/watch?v=FtRGOCRLCSY&feature=youtu.be"> 🎥 프로젝트 발표 영상 보러가기 </a>
+- <a href="https://smart-surprise-3fe.notion.site/with-me-6638767634654e5490df2991947906f6"> 🟪 with me 팀노션 (Brochure) </a></br>
+- <a href="https://www.instagram.com/nemo_with_me/"> 🟪 with me 인스타그램 </a></br>
 
 </br></br></br>
 
@@ -33,20 +35,14 @@
 
 </br></br></br>
 
-## 🟪 with me 서비스 소개
-
-(준비중)
-
-</br></br></br>
 
 ## 🔎 주요 기능
 
 <details>
 <summary>⏱ 공용 타이머</summary> </br>
   
-<!-- - 스터디, 운동, 스케치, 명상 등 타이머를 필요로하는 활동을 할 때 방 내부 참여자들이 함께 집중할 수 있도록 공용 타이머 
-- 모두가 사용 가능한 타이머를 이용해보세요! </br>
-- 시간이 모두 소진되면 alert 창으로 표시되니 걱정 말고 하고 싶은 일에 집중 집중!</br> -->
+- 시간 제한을 필요로 하는 작업을 할 때 사용자들이 함께 정한 시간 동안 집중할 수 있도록 공용 타이머 기능을 구현했습니다. 
+- 시간 제한을 필요로 하는 작업의 예: 스터디, 운동, 스케치, 마피아 게임 등 </br>
   
 </br>
 
@@ -57,11 +53,8 @@
 <details>
 <summary>👥 실시간 화상 채팅</summary> </br>
   
-<!-- - 누군가와 같이 노래를 부르고 싶나요?
-- 공부하고 싶은데 혼자선 집중이 되지 않나요?
-- 다른 사람들과 하고 싶었던 것, 그 무엇이든지 함께 해보세요! 
-- 필요에 따라 자유롭게 마이크와 카메라 on/off 가능! 
-- 하단에는 깜찍한 네모티콘도 있으니 대화 도중 언제든지 사용해보세요 😉   -->
+- 마이크 on/off , 카메라 on/off 기능을 통해 화상채팅 사용자들이 자율적으로 선택해 사용할 수 있으며,
+</br>이모티콘을 눌러 간단한 감정 표현도 주고받을 수 있습니다. 
     
 </br>
 
@@ -72,11 +65,10 @@
 <details>
 <summary>📊 기록 그래프</summary> </br>
 
-<!-- - 🟪 with me 에서 얼마만큼 활동했는지 시각적으로 나타내줘요! 
-- 카테고리별로 오늘 참여 기록, 이번 주 참여 기록을 볼 수 있어요
-- 이번 달 참여한 시간은 하루의 총 참여한 시간을 기준으로 동그라미가 채워진답니다!
-- 한 눈에 나의 소중한 시간들을 파악하고 뿌듯함을 느껴보세요 😊  
-- 나의 성과를 빛내줄 귀여운 뱃지도 있답니다!     -->
+- 사용자가 🟪 with me 에서 얼마만큼 활동했는지 시각적으로 볼 수 있도록 마이페이지를 그래프 형태로 표현했습니다.
+- 오늘과 이번 주 참여 기록에서는 카테고리별 참여 기록을, 이번 달 참여 기록에서는 하루 총 참여 시간을 확인할 수 있습니다.
+- 뱃지를 함께 볼 수 있도록 구성해 사용자가 서비스를 이용하며 성취감을 느낄 수 있도록 하고
+</br> 원하는 대표 뱃지를 설정해 다른 참여자에게 보여줄 수 있도록 구현했습니다.
     
 </br>
   
@@ -152,9 +144,6 @@
 
 </br></br>
 
-<!-- 사진 수정예정 -->
-
-<img width="100%" alt="단체사진" src="https://user-images.githubusercontent.com/77830226/161779680-7da299cc-fd4e-470e-8ed3-862b8e055954.png">
-
+![최종단체사진](https://user-images.githubusercontent.com/77830226/161935598-84bde947-0ebe-42e2-b262-c7db4a1a5deb.jpg)
 
 </br>
