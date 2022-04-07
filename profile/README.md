@@ -6,8 +6,6 @@
 <img width="540" alt="네모위드미" src="https://user-images.githubusercontent.com/77830226/161585283-36e4a2aa-d171-464a-8204-c7b2e67631a2.png">
 </p>
 
-</br>
-
 <h3 align='center'> 🙆 무엇이든 함께 할 수 있는 실시간 화상 채팅 🙆‍♂️ </h3>
   
 </br></br></br>
@@ -17,8 +15,6 @@
 - <a href="https://github.com/Square-with-me/Square-with-me-FE"> 📁 프론트엔드 GitHub Repository </a></br>
 - <a href="https://github.com/Square-with-me/Square-with-me-BE"> 📁 백엔드 GitHub Repository </a></br>
 - <a href="https://www.youtube.com/watch?v=QKoJh3oyPMs"> 🎥 프로젝트 발표 영상 보러가기 </a>
-- <a href="https://smart-surprise-3fe.notion.site/WITH-ME-6638767634654e5490df2991947906f6"> 🟪 WITH ME 팀노션 (Brochure) </a></br>
-- <a href="https://www.instagram.com/nemo_with_me/"> 🟪 WITH ME 인스타그램 </a></br>
 
 </br></br></br>
 
