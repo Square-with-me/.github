@@ -1,14 +1,16 @@
 # 🟪 WITH ME (네모위드미)
 
-</br>
-
 <p align='center'>
 <img width="540" alt="네모위드미" src="https://user-images.githubusercontent.com/77830226/161585283-36e4a2aa-d171-464a-8204-c7b2e67631a2.png">
 </p>
-
+<p align='center'>
+💡 혼자가 아쉬운 사람들을 위한! 다른 사람과 함께 집중하자!</br>
+자신의 흔적을 남기고 타인이 그것에 공유해주는 교류의 장!</br>
+누군가가 지켜봐주고 있다는 느낌을 받으면 더 잘할 수 있다!</br>
+서로 관심을 가져준다면 흐트러지지 않고 더욱 몰입해서 열심히 할 수 있어요!</br>
+</p>
 <h3 align='center'> 🙆 무엇이든 함께 할 수 있는 실시간 화상 채팅 🙆‍♂️ </h3>
   
-</br></br></br>
 
 ## 📌 바로가기
 - <a href="https://nemowithme.com"> 🟪 WITH ME 바로가기 </a></br>
@@ -16,11 +18,8 @@
 - <a href="https://github.com/Square-with-me/Square-with-me-BE"> 📁 백엔드 GitHub Repository </a></br>
 - <a href="https://www.youtube.com/watch?v=QKoJh3oyPMs"> 🎥 프로젝트 발표 영상 보러가기 </a>
 
-</br></br></br>
 
 ## ⏰ 프로젝트 기간
-
-</br>
 
 ||기간 (2022)|
 |:------:|---|
@@ -29,7 +28,6 @@
 |사용자 설문조사| 4월 1일 ~ 4월 7일|
 |서비스 개선| 4월 1일 ~ 4월 8일|
 
-</br></br></br>
 
 
 ## 🔎 주요 기능
@@ -72,19 +70,16 @@
     
 </details>
 
-</br></br>
 
 ## 🧑‍🔧 프로젝트 구조
-</br>
+
 
 <img width="2385" alt="아키텍처" src="https://user-images.githubusercontent.com/77830226/161778578-d49e244d-4348-417f-95ed-d9e4f6a00391.png">
 
-</br></br>
 
 
 ## 🛠 기술스택
 >### 👩‍💻 프론트엔드
-</br>
 <p align='center'>
   <img src='https://img.shields.io/badge/React-v17.0.2-blue?logo=React'/>
   <img src='https://img.shields.io/badge/ReactRouter-v5.2.1-pink?logo=React Router'/>
@@ -103,10 +98,8 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=Amazon AWS&logoColor=white" />
 </p>
 
-</br></br></br>
 
 >### 🧑‍💻 백엔드
-</br>
 <p align='center'>
   <img src='https://img.shields.io/badge/Node-v16.13.1-green?logo=Node.js'/>
   <img src='https://img.shields.io/badge/socket.io-v4.4.1-white?logo=Socket.io'/>
@@ -138,8 +131,6 @@
 |김지현|geehyun.work@gmail.com|Design|
 |추정윤|choojy1105@naver.com|Design|
 
-</br></br>
 
 ![최종단체사진](https://user-images.githubusercontent.com/77830226/161935598-84bde947-0ebe-42e2-b262-c7db4a1a5deb.jpg)
 
-</br>
