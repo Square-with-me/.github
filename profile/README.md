@@ -115,6 +115,11 @@
     
 </details>
 
+</br>
+
+## <a href="https://github.com/Square-with-me/Square-with-me-FE/wiki"> 🟪 WITH ME 기술적 도전 및 트러블 슈팅 - WIKI 🔥</a>
+
+</br>
 
 ## 🟪 WITH ME 팀원 소개
 |Name|GitHub / Contact|Position|
