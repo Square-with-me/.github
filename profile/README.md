@@ -12,14 +12,14 @@
 <h3 align='center'> 🙆 무엇이든 함께 할 수 있는 실시간 화상 채팅 🙆‍♂️ </h3>
   
 
-## 📌 바로가기
+## 바로가기
 - <a href="https://nemowithme.com"> ▇ WITH ME 바로가기 </a></br>
 - <a href="https://github.com/Square-with-me/Square-with-me-FE"> 📁 프론트엔드 GitHub Repository </a></br>
 - <a href="https://github.com/Square-with-me/Square-with-me-BE"> 📁 백엔드 GitHub Repository </a></br>
 - <a href="https://www.youtube.com/watch?v=QKoJh3oyPMs"> 🎥 프로젝트 발표 영상 보러가기 </a>
 
 
-## ⏰ 프로젝트 기간
+## 프로젝트 기간
 
 ||기간 (2022)|
 |:------:|---|
@@ -31,8 +31,8 @@
 
 
 
-## 🛠 기술스택
->### 👩‍💻 프론트엔드
+## 기술스택
+>### 프론트엔드
 <p align='center'>
   <img src='https://img.shields.io/badge/React-v17.0.2-blue?logo=React'/>
   <img src='https://img.shields.io/badge/ReactRouter-v5.2.1-pink?logo=React Router'/>
@@ -52,7 +52,7 @@
 </p>
 
 
->### 🧑‍💻 백엔드
+>### 백엔드
 <p align='center'>
   <img src='https://img.shields.io/badge/Node-v16.13.1-green?logo=Node.js'/>
   <img src='https://img.shields.io/badge/socket.io-v4.4.1-white?logo=Socket.io'/>
@@ -70,12 +70,12 @@
 </p>
 </br>
 
-## 🧑‍🔧 프로젝트 구조
+## 프로젝트 구조
 
 <img width="2385" alt="아키텍처" src="https://user-images.githubusercontent.com/77830226/161778578-d49e244d-4348-417f-95ed-d9e4f6a00391.png">
 
 
-## 🔎 주요 기능
+## 주요 기능
 
 <details>
 <summary>⏱ 공용 타이머</summary> </br>
@@ -117,8 +117,8 @@
 
 </br>
 
-## <a href="https://github.com/Square-with-me/Square-with-me-FE/wiki/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-FE-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%8F%84%EC%A0%84-%EB%B0%8F-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-%F0%9F%94%A5"> 👩‍💻 FE 기술적 도전 및 트러블 슈팅 🔥</a>
-## <a href="https://github.com/Square-with-me/Square-with-me-BE"> 🧑‍💻 BE 기술적 도전 및 트러블 슈팅 🔥</a>
+## <a href="https://github.com/Square-with-me/Square-with-me-FE/wiki/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-FE-%EA%B8%B0%EC%88%A0%EC%A0%81-%EB%8F%84%EC%A0%84-%EB%B0%8F-%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85-%F0%9F%94%A5">FE 기술적 도전 및 트러블 슈팅</a>
+## <a href="https://github.com/Square-with-me/Square-with-me-BE"> BE 기술적 도전 및 트러블 슈팅</a>
 
 
 </br>
